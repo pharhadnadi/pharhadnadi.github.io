@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Welcome
 header_type: hero
-subtitle: Starter pack
+subtitle: :-)
 ---
 
 Hello World.
